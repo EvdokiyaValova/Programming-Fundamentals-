@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.genruntimeconfig.cache

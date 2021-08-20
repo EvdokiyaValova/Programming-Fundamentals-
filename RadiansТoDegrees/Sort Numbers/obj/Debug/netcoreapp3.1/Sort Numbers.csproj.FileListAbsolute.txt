@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\bin\Debug\netcoreapp3.1\Sort Numbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Sort Numbers\obj\Debug\netcoreapp3.1\Sort Numbers.genruntimeconfig.cache

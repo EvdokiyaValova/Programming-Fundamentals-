@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\bin\Debug\netcoreapp3.1\Student Academy2.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\bin\Debug\netcoreapp3.1\Student Academy2.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\bin\Debug\netcoreapp3.1\Student Academy2.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\bin\Debug\netcoreapp3.1\Student Academy2.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\bin\Debug\netcoreapp3.1\Student Academy2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\bin\Debug\netcoreapp3.1\Student Academy2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\obj\Debug\netcoreapp3.1\Student Academy2.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\obj\Debug\netcoreapp3.1\Student Academy2.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\obj\Debug\netcoreapp3.1\Student Academy2.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\obj\Debug\netcoreapp3.1\Student Academy2.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\obj\Debug\netcoreapp3.1\Student Academy2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\obj\Debug\netcoreapp3.1\Student Academy2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Student Academy2\obj\Debug\netcoreapp3.1\Student Academy2.genruntimeconfig.cache

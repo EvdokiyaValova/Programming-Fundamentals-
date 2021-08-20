@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.genruntimeconfig.cache

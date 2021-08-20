@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\bin\Debug\netcoreapp3.1\Min Number.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\bin\Debug\netcoreapp3.1\Min Number.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\bin\Debug\netcoreapp3.1\Min Number.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\bin\Debug\netcoreapp3.1\Min Number.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\bin\Debug\netcoreapp3.1\Min Number.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\bin\Debug\netcoreapp3.1\Min Number.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\obj\Debug\netcoreapp3.1\Min Number.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\obj\Debug\netcoreapp3.1\Min Number.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\obj\Debug\netcoreapp3.1\Min Number.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\obj\Debug\netcoreapp3.1\Min Number.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\obj\Debug\netcoreapp3.1\Min Number.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Min Number\obj\Debug\netcoreapp3.1\Min Number.genruntimeconfig.cache

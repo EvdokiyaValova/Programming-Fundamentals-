@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\bin\Debug\netcoreapp3.1\The Lift.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\bin\Debug\netcoreapp3.1\The Lift.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\bin\Debug\netcoreapp3.1\The Lift.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\bin\Debug\netcoreapp3.1\The Lift.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\bin\Debug\netcoreapp3.1\The Lift.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\bin\Debug\netcoreapp3.1\The Lift.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\obj\Debug\netcoreapp3.1\The Lift.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\obj\Debug\netcoreapp3.1\The Lift.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\obj\Debug\netcoreapp3.1\The Lift.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\obj\Debug\netcoreapp3.1\The Lift.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\obj\Debug\netcoreapp3.1\The Lift.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\obj\Debug\netcoreapp3.1\The Lift.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\The Lift\obj\Debug\netcoreapp3.1\The Lift.genruntimeconfig.cache

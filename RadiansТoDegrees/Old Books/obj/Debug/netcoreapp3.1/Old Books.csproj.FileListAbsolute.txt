@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\bin\Debug\netcoreapp3.1\Old Books.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\bin\Debug\netcoreapp3.1\Old Books.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\bin\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\bin\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\obj\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\obj\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Old Books\obj\Debug\netcoreapp3.1\Old Books.genruntimeconfig.cache

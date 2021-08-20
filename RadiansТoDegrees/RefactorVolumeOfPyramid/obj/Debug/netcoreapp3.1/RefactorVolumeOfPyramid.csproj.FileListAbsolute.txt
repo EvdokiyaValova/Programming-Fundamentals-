@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.genruntimeconfig.cache

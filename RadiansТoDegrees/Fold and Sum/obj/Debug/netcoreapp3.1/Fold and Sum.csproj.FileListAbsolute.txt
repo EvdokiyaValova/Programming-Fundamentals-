@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.genruntimeconfig.cache

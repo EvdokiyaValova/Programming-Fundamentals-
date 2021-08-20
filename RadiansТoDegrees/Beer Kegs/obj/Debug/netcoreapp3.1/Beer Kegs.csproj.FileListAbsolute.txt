@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.genruntimeconfig.cache

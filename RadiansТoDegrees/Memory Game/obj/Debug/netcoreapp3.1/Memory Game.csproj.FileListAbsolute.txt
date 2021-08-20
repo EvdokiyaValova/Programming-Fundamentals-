@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\bin\Debug\netcoreapp3.1\Memory Game.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\bin\Debug\netcoreapp3.1\Memory Game.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\bin\Debug\netcoreapp3.1\Memory Game.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\bin\Debug\netcoreapp3.1\Memory Game.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\bin\Debug\netcoreapp3.1\Memory Game.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\bin\Debug\netcoreapp3.1\Memory Game.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\obj\Debug\netcoreapp3.1\Memory Game.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\obj\Debug\netcoreapp3.1\Memory Game.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\obj\Debug\netcoreapp3.1\Memory Game.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\obj\Debug\netcoreapp3.1\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\obj\Debug\netcoreapp3.1\Memory Game.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\obj\Debug\netcoreapp3.1\Memory Game.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Memory Game\obj\Debug\netcoreapp3.1\Memory Game.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.genruntimeconfig.cache

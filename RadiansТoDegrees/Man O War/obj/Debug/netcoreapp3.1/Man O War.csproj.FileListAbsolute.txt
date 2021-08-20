@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\bin\Debug\netcoreapp3.1\Man O War.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\bin\Debug\netcoreapp3.1\Man O War.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\bin\Debug\netcoreapp3.1\Man O War.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\bin\Debug\netcoreapp3.1\Man O War.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\bin\Debug\netcoreapp3.1\Man O War.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\bin\Debug\netcoreapp3.1\Man O War.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\obj\Debug\netcoreapp3.1\Man O War.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\obj\Debug\netcoreapp3.1\Man O War.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\obj\Debug\netcoreapp3.1\Man O War.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\obj\Debug\netcoreapp3.1\Man O War.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\obj\Debug\netcoreapp3.1\Man O War.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\obj\Debug\netcoreapp3.1\Man O War.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Man O War\obj\Debug\netcoreapp3.1\Man O War.genruntimeconfig.cache

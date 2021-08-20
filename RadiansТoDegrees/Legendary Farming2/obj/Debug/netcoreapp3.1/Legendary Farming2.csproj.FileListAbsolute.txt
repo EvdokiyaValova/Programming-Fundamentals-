@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\bin\Debug\netcoreapp3.1\Legendary Farming2.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\bin\Debug\netcoreapp3.1\Legendary Farming2.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\bin\Debug\netcoreapp3.1\Legendary Farming2.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\bin\Debug\netcoreapp3.1\Legendary Farming2.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\bin\Debug\netcoreapp3.1\Legendary Farming2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\bin\Debug\netcoreapp3.1\Legendary Farming2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\obj\Debug\netcoreapp3.1\Legendary Farming2.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\obj\Debug\netcoreapp3.1\Legendary Farming2.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\obj\Debug\netcoreapp3.1\Legendary Farming2.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\obj\Debug\netcoreapp3.1\Legendary Farming2.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\obj\Debug\netcoreapp3.1\Legendary Farming2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\obj\Debug\netcoreapp3.1\Legendary Farming2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Legendary Farming2\obj\Debug\netcoreapp3.1\Legendary Farming2.genruntimeconfig.cache

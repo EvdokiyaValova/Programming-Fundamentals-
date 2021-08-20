@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.genruntimeconfig.cache

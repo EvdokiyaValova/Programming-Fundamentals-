@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\bin\Debug\netcoreapp3.1\Math operations.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\bin\Debug\netcoreapp3.1\Math operations.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\bin\Debug\netcoreapp3.1\Math operations.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\bin\Debug\netcoreapp3.1\Math operations.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\bin\Debug\netcoreapp3.1\Math operations.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\bin\Debug\netcoreapp3.1\Math operations.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\obj\Debug\netcoreapp3.1\Math operations.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\obj\Debug\netcoreapp3.1\Math operations.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\obj\Debug\netcoreapp3.1\Math operations.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\obj\Debug\netcoreapp3.1\Math operations.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\obj\Debug\netcoreapp3.1\Math operations.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Math operations\obj\Debug\netcoreapp3.1\Math operations.genruntimeconfig.cache

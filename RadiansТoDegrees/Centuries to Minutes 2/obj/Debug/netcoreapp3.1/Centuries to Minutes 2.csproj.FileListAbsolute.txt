@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\bin\Debug\netcoreapp3.1\Centuries to Minutes 2.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\bin\Debug\netcoreapp3.1\Centuries to Minutes 2.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\bin\Debug\netcoreapp3.1\Centuries to Minutes 2.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\bin\Debug\netcoreapp3.1\Centuries to Minutes 2.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\bin\Debug\netcoreapp3.1\Centuries to Minutes 2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\bin\Debug\netcoreapp3.1\Centuries to Minutes 2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\obj\Debug\netcoreapp3.1\Centuries to Minutes 2.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\obj\Debug\netcoreapp3.1\Centuries to Minutes 2.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\obj\Debug\netcoreapp3.1\Centuries to Minutes 2.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\obj\Debug\netcoreapp3.1\Centuries to Minutes 2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\obj\Debug\netcoreapp3.1\Centuries to Minutes 2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Centuries to Minutes 2\obj\Debug\netcoreapp3.1\Centuries to Minutes 2.genruntimeconfig.cache

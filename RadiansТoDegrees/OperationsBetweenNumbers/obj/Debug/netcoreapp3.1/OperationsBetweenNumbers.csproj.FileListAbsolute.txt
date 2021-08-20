@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.genruntimeconfig.cache

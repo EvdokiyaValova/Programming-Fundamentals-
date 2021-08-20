@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\bin\Debug\netcoreapp3.1\02Exam Bracelet Stand.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\bin\Debug\netcoreapp3.1\02Exam Bracelet Stand.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\bin\Debug\netcoreapp3.1\02Exam Bracelet Stand.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\bin\Debug\netcoreapp3.1\02Exam Bracelet Stand.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\bin\Debug\netcoreapp3.1\02Exam Bracelet Stand.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\bin\Debug\netcoreapp3.1\02Exam Bracelet Stand.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\obj\Debug\netcoreapp3.1\02Exam Bracelet Stand.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\obj\Debug\netcoreapp3.1\02Exam Bracelet Stand.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\obj\Debug\netcoreapp3.1\02Exam Bracelet Stand.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\obj\Debug\netcoreapp3.1\02Exam Bracelet Stand.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\obj\Debug\netcoreapp3.1\02Exam Bracelet Stand.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\02Exam Bracelet Stand\obj\Debug\netcoreapp3.1\02Exam Bracelet Stand.genruntimeconfig.cache

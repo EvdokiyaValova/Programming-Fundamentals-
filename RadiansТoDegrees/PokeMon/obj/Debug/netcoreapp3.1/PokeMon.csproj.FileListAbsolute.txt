@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.genruntimeconfig.cache

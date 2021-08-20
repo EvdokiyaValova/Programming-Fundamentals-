@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\bin\Debug\netcoreapp3.1\Count Chars in a String2.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\bin\Debug\netcoreapp3.1\Count Chars in a String2.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\bin\Debug\netcoreapp3.1\Count Chars in a String2.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\bin\Debug\netcoreapp3.1\Count Chars in a String2.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\bin\Debug\netcoreapp3.1\Count Chars in a String2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\bin\Debug\netcoreapp3.1\Count Chars in a String2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\obj\Debug\netcoreapp3.1\Count Chars in a String2.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\obj\Debug\netcoreapp3.1\Count Chars in a String2.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\obj\Debug\netcoreapp3.1\Count Chars in a String2.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\obj\Debug\netcoreapp3.1\Count Chars in a String2.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\obj\Debug\netcoreapp3.1\Count Chars in a String2.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\obj\Debug\netcoreapp3.1\Count Chars in a String2.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Count Chars in a String2\obj\Debug\netcoreapp3.1\Count Chars in a String2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Pets\obj\Debug\netcoreapp3.1\Pets.genruntimeconfig.cache

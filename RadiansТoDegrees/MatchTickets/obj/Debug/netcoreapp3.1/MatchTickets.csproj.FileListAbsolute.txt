@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.genruntimeconfig.cache

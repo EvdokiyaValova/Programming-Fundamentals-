@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\bin\Debug\netcoreapp3.1\Messaging.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\bin\Debug\netcoreapp3.1\Messaging.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\bin\Debug\netcoreapp3.1\Messaging.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\bin\Debug\netcoreapp3.1\Messaging.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\bin\Debug\netcoreapp3.1\Messaging.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\bin\Debug\netcoreapp3.1\Messaging.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\obj\Debug\netcoreapp3.1\Messaging.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\obj\Debug\netcoreapp3.1\Messaging.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\obj\Debug\netcoreapp3.1\Messaging.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\obj\Debug\netcoreapp3.1\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\obj\Debug\netcoreapp3.1\Messaging.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\obj\Debug\netcoreapp3.1\Messaging.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Messaging\obj\Debug\netcoreapp3.1\Messaging.genruntimeconfig.cache

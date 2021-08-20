@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.genruntimeconfig.cache

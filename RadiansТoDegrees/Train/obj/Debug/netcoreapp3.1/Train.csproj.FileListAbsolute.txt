@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\bin\Debug\netcoreapp3.1\Train.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\bin\Debug\netcoreapp3.1\Train.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\bin\Debug\netcoreapp3.1\Train.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\bin\Debug\netcoreapp3.1\Train.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\obj\Debug\netcoreapp3.1\Train.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\obj\Debug\netcoreapp3.1\Train.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\obj\Debug\netcoreapp3.1\Train.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\obj\Debug\netcoreapp3.1\Train.genruntimeconfig.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Train\obj\Debug\netcoreapp3.1\Train.csprojAssemblyReference.cache

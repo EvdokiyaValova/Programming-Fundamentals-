@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.genruntimeconfig.cache

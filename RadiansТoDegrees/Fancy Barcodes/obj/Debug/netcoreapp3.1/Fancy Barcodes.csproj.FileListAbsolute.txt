@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.genruntimeconfig.cache

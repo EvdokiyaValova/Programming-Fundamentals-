@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.genruntimeconfig.cache

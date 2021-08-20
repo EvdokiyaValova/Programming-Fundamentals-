@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache

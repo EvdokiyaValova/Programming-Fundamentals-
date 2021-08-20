@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\01 Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.genruntimeconfig.cache

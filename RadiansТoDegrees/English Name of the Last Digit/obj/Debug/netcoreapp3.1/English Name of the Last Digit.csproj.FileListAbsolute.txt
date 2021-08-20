@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\bin\Debug\netcoreapp3.1\English Name of the Last Digit.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\bin\Debug\netcoreapp3.1\English Name of the Last Digit.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\bin\Debug\netcoreapp3.1\English Name of the Last Digit.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\bin\Debug\netcoreapp3.1\English Name of the Last Digit.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\bin\Debug\netcoreapp3.1\English Name of the Last Digit.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\bin\Debug\netcoreapp3.1\English Name of the Last Digit.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\obj\Debug\netcoreapp3.1\English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\obj\Debug\netcoreapp3.1\English Name of the Last Digit.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\obj\Debug\netcoreapp3.1\English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\obj\Debug\netcoreapp3.1\English Name of the Last Digit.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\obj\Debug\netcoreapp3.1\English Name of the Last Digit.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\English Name of the Last Digit\obj\Debug\netcoreapp3.1\English Name of the Last Digit.genruntimeconfig.cache

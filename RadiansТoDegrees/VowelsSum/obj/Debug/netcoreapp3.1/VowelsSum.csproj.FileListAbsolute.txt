@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\bin\Debug\netcoreapp3.1\Computer Store.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Computer Store\obj\Debug\netcoreapp3.1\Computer Store.genruntimeconfig.cache

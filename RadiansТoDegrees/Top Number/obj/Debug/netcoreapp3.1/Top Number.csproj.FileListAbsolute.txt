@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\bin\Debug\netcoreapp3.1\Top Number.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\bin\Debug\netcoreapp3.1\Top Number.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\bin\Debug\netcoreapp3.1\Top Number.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\bin\Debug\netcoreapp3.1\Top Number.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\bin\Debug\netcoreapp3.1\Top Number.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\bin\Debug\netcoreapp3.1\Top Number.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\obj\Debug\netcoreapp3.1\Top Number.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\obj\Debug\netcoreapp3.1\Top Number.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\obj\Debug\netcoreapp3.1\Top Number.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\obj\Debug\netcoreapp3.1\Top Number.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\obj\Debug\netcoreapp3.1\Top Number.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Top Number\obj\Debug\netcoreapp3.1\Top Number.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\bin\Debug\netcoreapp3.1\List Operations.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\bin\Debug\netcoreapp3.1\List Operations.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\bin\Debug\netcoreapp3.1\List Operations.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\bin\Debug\netcoreapp3.1\List Operations.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\bin\Debug\netcoreapp3.1\List Operations.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\bin\Debug\netcoreapp3.1\List Operations.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\obj\Debug\netcoreapp3.1\List Operations.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\obj\Debug\netcoreapp3.1\List Operations.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\obj\Debug\netcoreapp3.1\List Operations.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\obj\Debug\netcoreapp3.1\List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\obj\Debug\netcoreapp3.1\List Operations.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\obj\Debug\netcoreapp3.1\List Operations.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\List Operations\obj\Debug\netcoreapp3.1\List Operations.genruntimeconfig.cache

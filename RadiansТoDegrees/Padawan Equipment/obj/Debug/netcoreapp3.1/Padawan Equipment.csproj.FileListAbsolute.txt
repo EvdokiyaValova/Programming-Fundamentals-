@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.genruntimeconfig.cache

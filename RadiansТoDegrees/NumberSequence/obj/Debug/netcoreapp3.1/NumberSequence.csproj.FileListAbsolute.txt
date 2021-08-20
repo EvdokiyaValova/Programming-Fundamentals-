@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

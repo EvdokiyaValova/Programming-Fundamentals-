@@ -1,0 +1,13 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.csprojAssemblyReference.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

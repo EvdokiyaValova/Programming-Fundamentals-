@@ -1,0 +1,12 @@
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.exe
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.deps.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.dev.json
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfo.cs
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.dll
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.pdb
+C:\Users\Ilia\Documents\C#\RadiansТoDegrees\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.genruntimeconfig.cache
